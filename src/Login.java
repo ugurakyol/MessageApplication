@@ -1,7 +1,7 @@
 public class Login {
 
     public static void main(String[] args) {
-        System.out.println("sdfsf");
-        System.out.println("sdfs");
+        System.out.println("dfg");
+        System.out.println("dfgdfg");
     }
 }
